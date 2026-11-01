@@ -22,16 +22,20 @@ My background is broad and hands-on: product engineering, developer experience, 
 
 ## Selected work
 
-The following projects are private repositories and are not publicly accessible. I'm happy to discuss the architecture, trade-offs and lessons behind them.
+These are engineering projects I use to explore recurring problems in team delivery, code understanding and developer workflows. They are currently private, so their source code is not publicly accessible. I'm happy to discuss the decisions, trade-offs and lessons behind them.
 
-- **Baseline** — engineering health and delivery insight, designed to support better team conversations and decisions.
-- **Quarry** — local-first codebase retrieval and grounded code analysis, with retrieval evaluation and measured trade-offs.
-- **Marshal** — an AI-assisted engineering workflow exploring ticket understanding, code ownership and evidence-grounded implementation briefs.
-- **Moss** — an experimental local AI orchestration project focused on model routing, safety controls and human approval.
+- **Baseline — engineering delivery health:** turns team-level delivery and reliability signals into transparent, balanced indicators for better conversations rather than individual performance scoring. Demonstrates an approach to sustainable delivery and measurement.
+- **Quarry — codebase understanding:** a local-first TypeScript retrieval engine combining semantic and keyword search to ground answers in source files. Evaluates retrieval against a labelled corpus and documents where hybrid search does *not* outperform dense search.
+- **Marshal — ticket refinement and ownership:** a technical spike built on Quarry that explores multi-repository code evidence, CODEOWNERS routing and more actionable implementation briefs. Not a full Jira integration or commercial product.
+- **Moss — local-first AI orchestration:** an experimental CLI exploring explicit model routing, cost boundaries and human approval. Focuses on control and predictable workflows rather than autonomous agents.
 
 ### Public project
 
 - **[Councillor Tool](https://github.com/KarlDoyle/councillor-tool)** — a small, privacy-conscious tool that helps Dublin residents find their local councillors and draft a message.
+
+## How these projects connect
+
+Quarry provides reusable code-retrieval capability; Marshal applies that capability to engineering ticket refinement. Baseline addresses team-level delivery signals, while Moss explores controlled AI-assisted workflows. They reflect the same approach I use in engineering leadership: define the problem, make trade-offs explicit, test outcomes and keep the scope practical.
 
 ## How I work
 
