@@ -1,42 +1,32 @@
 # Karl Doyle
 
-**Engineering Manager · Hands-on technical leadership · Developer experience & applied AI**
+**Engineering Manager · Consumer web · Product engineering · Developer experience**
 
-Engineering leader with 13+ years in software, from design and frontend engineering through full-stack development to people and organisational leadership. I build strong teams, improve the systems around delivery, and stay close to the technical work.
+Engineering leader with 14+ years across design, frontend and full-stack engineering, and people leadership. I make complex product and engineering work easier to understand, own and deliver by combining user perspective, technical judgement and practical team leadership.
 
-Based in Dublin, Ireland. Open to Engineering Manager opportunities across Europe and the UK.
+Based in Dublin · Open to Engineering Manager and Senior Engineering Manager roles across Europe and the UK · Willing to relocate to London · [LinkedIn](https://linkedin.com/in/karldoyle-em)
 
-## Leadership
+## Selected impact
 
-- Built and scaled teams, including growing an engineering team from 3 to 8 and an organisation from 4 to 14.
-- Coach engineers and develop future leaders, including supporting individual contributors into senior and management roles.
-- Establish practical operating systems for planning, delivery, on-call, reliability and engineering health.
-- Partner closely with Product to turn business goals into clear technical priorities.
-- Help teams adopt AI pragmatically, with attention to quality, safety and measurable value.
+- **Built teams and developed leaders:** helped grow Dublin engineering from 4 to around 14; grew PASS from 3 to 8, hired and onboarded 9 engineers in the first half of 2025, and developed an engineer into an Engineering Manager.
+- **Improved customer-facing performance:** led cart work that reduced p95 latency from 350 ms to 87 ms and monthly server errors from 702 to 72.
+- **Led cross-functional operational improvement:** helped lead a Billing Close initiative spanning seven departments and multiple time zones; engineering hours fell 57% and the overall close shortened by two days.
 
-## Technical background
+## Technical range
 
-TypeScript · JavaScript · Node.js · React · PostgreSQL · AWS
+**Product and web:** React · TypeScript · JavaScript · Node.js · Frontend architecture  
+**Systems and delivery:** PostgreSQL · AWS · APIs and integrations · Reliability · SLOs · CI/CD  
+**Current interests:** Developer experience · AI-assisted engineering workflows · Local-first retrieval
 
-My background is broad and hands-on: product engineering, developer experience, system design, delivery practices and applied AI workflows.
+## Selected projects
 
-## Selected work
+- **[Baseline — engineering delivery health](https://github.com/KarlDoyle/delivery-health-kit) · Release-ready**  
+  A local-first report combining delivery, reliability and engineering-effectiveness signals at team level. Designed to support improvement conversations, not individual performance scoring.
 
-These are engineering projects I use to explore recurring problems in team delivery, code understanding and developer workflows. They are currently private, so their source code is not publicly accessible. I'm happy to discuss the decisions, trade-offs and lessons behind them.
+- **[Quarry — codebase retrieval and grounded analysis](https://github.com/KarlDoyle/quarry) · Release-ready**  
+  A local-first TypeScript retrieval engine combining semantic and keyword search to ground code analysis in source evidence. Its documentation is explicit about the limits of the bundled evaluation.
 
-- **[Baseline](https://github.com/KarlDoyle/delivery-health-kit) — engineering delivery health** · **Release-ready** · Private source. Turns team-level delivery and reliability signals into transparent, balanced indicators for better conversations rather than individual performance scoring. Demonstrates an approach to sustainable delivery and measurement.
-- **[Quarry](https://github.com/KarlDoyle/quarry) — codebase understanding** · **Release-ready** · Private source. A local-first TypeScript retrieval engine combining semantic and keyword search to ground answers in source files. Its bundled evaluation is a smoke test, not representative performance evidence.
-- **[Marshal](https://github.com/KarlDoyle/marshal) — ticket refinement and ownership** · **MVP / technical spike** · Private source. Explores multi-repository code evidence, CODEOWNERS routing and more actionable implementation briefs. Not a full Jira integration or commercial product.
-- **[Moss](https://github.com/KarlDoyle/moss) — local-first AI orchestration** · **Experimental** · Private source. Explores explicit model routing, cost boundaries and human approval, focusing on control and predictable workflows rather than autonomous agents.
+- **[Councillor Tool — civic product](https://github.com/KarlDoyle/councillor-tool)**  
+  A privacy-conscious tool that helps Dublin residents find their local councillors and draft a message.
 
-### Public project
-
-- **[Councillor Tool](https://github.com/KarlDoyle/councillor-tool)** — a small, privacy-conscious tool that helps Dublin residents find their local councillors and draft a message.
-
-## How these projects connect
-
-Quarry provides reusable code-retrieval capability; Marshal applies that capability to engineering ticket refinement. Baseline addresses team-level delivery signals, while Moss explores controlled AI-assisted workflows. They reflect the same approach I use in engineering leadership: define the problem, make trade-offs explicit, test outcomes and keep the scope practical.
-
-## How I work
-
-I value clear ownership, honest measurement, thoughtful technical trade-offs and sustainable delivery. My aim is to create the conditions for engineers to do their best work while keeping a practical connection to the product and the code.
+I value clear ownership, honest measurement, thoughtful technical trade-offs and sustainable delivery. I aim to help engineers do their best work while staying connected to customers, product decisions and the code.
