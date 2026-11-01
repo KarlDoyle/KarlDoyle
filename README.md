@@ -2,7 +2,7 @@
 
 **Engineering Manager · Consumer web · Product engineering · Developer experience**
 
-Engineering leader with 14+ years across design, frontend and full-stack engineering, and people leadership. I make complex product and engineering work easier to understand, own and deliver by combining user perspective, technical judgement and practical team leadership.
+Engineering leader with 14+ years in technology, including six years in engineering management, across design, frontend and full-stack engineering. I make complex product and engineering work easier to understand, own and deliver by combining user perspective, technical judgement and practical team leadership.
 
 Based in Dublin · Open to Engineering Manager and Senior Engineering Manager roles across Europe and the UK · Willing to relocate to London · [LinkedIn](https://linkedin.com/in/karldoyle-em)
 
