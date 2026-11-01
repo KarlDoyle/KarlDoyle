@@ -25,9 +25,9 @@ My background is broad and hands-on: product engineering, developer experience, 
 These are engineering projects I use to explore recurring problems in team delivery, code understanding and developer workflows. They are currently private, so their source code is not publicly accessible. I'm happy to discuss the decisions, trade-offs and lessons behind them.
 
 - **[Baseline](https://github.com/KarlDoyle/delivery-health-kit) — engineering delivery health** · **Release-ready** · Private source. Turns team-level delivery and reliability signals into transparent, balanced indicators for better conversations rather than individual performance scoring. Demonstrates an approach to sustainable delivery and measurement.
-- **Quarry — codebase understanding:** a local-first TypeScript retrieval engine combining semantic and keyword search to ground answers in source files. Evaluates retrieval against a labelled corpus and documents where hybrid search does *not* outperform dense search.
-- **Marshal — ticket refinement and ownership:** a technical spike built on Quarry that explores multi-repository code evidence, CODEOWNERS routing and more actionable implementation briefs. Not a full Jira integration or commercial product.
-- **Moss — local-first AI orchestration:** an experimental CLI exploring explicit model routing, cost boundaries and human approval. Focuses on control and predictable workflows rather than autonomous agents.
+- **[Quarry](https://github.com/KarlDoyle/quarry) — codebase understanding** · **Release-ready** · Private source. A local-first TypeScript retrieval engine combining semantic and keyword search to ground answers in source files. Its bundled evaluation is a smoke test, not representative performance evidence.
+- **[Marshal](https://github.com/KarlDoyle/marshal) — ticket refinement and ownership** · **MVP / technical spike** · Private source. Explores multi-repository code evidence, CODEOWNERS routing and more actionable implementation briefs. Not a full Jira integration or commercial product.
+- **[Moss](https://github.com/KarlDoyle/moss) — local-first AI orchestration** · **Experimental** · Private source. Explores explicit model routing, cost boundaries and human approval, focusing on control and predictable workflows rather than autonomous agents.
 
 ### Public project
 
