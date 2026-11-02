@@ -12,6 +12,7 @@ I build and scale engineering teams, then stay close enough to the work to help 
 | --- | --- |
 | Engineering leadership, delivery health and responsible metrics | [Baseline / delivery-health-kit](https://github.com/KarlDoyle/delivery-health-kit) |
 | Applied AI, retrieval and grounded code analysis | [Quarry](https://github.com/KarlDoyle/quarry) |
+| AI-assisted ticket routing and refinement | [Marshal](https://github.com/KarlDoyle/marshal-public) |
 | Reusable AI engineering standards and templates | [AI Starter](https://github.com/KarlDoyle/ai-starter-public) |
 | A live, privacy-conscious public product | [Councillor Tool](https://github.com/KarlDoyle/councillor-tool) |
 | Operational developer tooling and review-flow health | [PR Watch](https://github.com/KarlDoyle/pr-watch) |
@@ -47,6 +48,14 @@ Indexes code locally and combines semantic and keyword search. Retrieved source 
 **Demonstrates:** hybrid retrieval, grounded analysis design and evaluation honesty.
 
 [Visual: real local answer with source-file citations — illustrative, not a benchmark](https://github.com/KarlDoyle/quarry/blob/main/docs/quarry-demo.svg)
+
+### [Marshal — code-grounded ticket routing](https://github.com/KarlDoyle/marshal-public)
+
+Marshal takes a thin engineering ticket, searches indexed repositories, identifies likely ownership from retrieved code evidence and CODEOWNERS, and can rewrite the report into a structured implementation brief. It exposes confidence rather than manufacturing certainty, with weak or competing evidence reducing the route’s confidence.
+
+**Demonstrates:** retrieval-powered workflow design, ownership routing, uncertainty handling and local-first AI integration.
+
+[Read the project README](https://github.com/KarlDoyle/marshal-public#readme)
 
 ### [AI Starter — engineering-ready AI templates](https://github.com/KarlDoyle/ai-starter-public)
 
