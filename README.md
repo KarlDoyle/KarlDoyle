@@ -65,7 +65,9 @@ A live tool helping residents in Dublin City and Dún Laoghaire–Rathdown find 
 **Demonstrates:** public-interest product delivery, open data and maintainability.
 
 [Explore the live interface](https://karldoyle.github.io/councillor-tool/)  
-**Visual placeholder:** screenshot of area selection and councillor results, with no personal draft text.
+![Councillor Tool showing North Inner City area selection and councillor results](assets/councillor-tool.jpg)
+
+_Real screenshot of the live interface with an example selection; no personal details entered._
 
 ### Other developer tooling
 
