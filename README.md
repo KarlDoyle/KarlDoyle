@@ -27,6 +27,9 @@ Dublin-based · UK right to work · Open to roles across Europe and the UK, incl
 - **[Quarry — codebase retrieval and grounded analysis](https://github.com/KarlDoyle/quarry)**  
   A local-first TypeScript retrieval engine using SQLite, vector and full-text search, and local embeddings to ground code analysis in source evidence. The documentation describes evaluation limits and hosted-model options.
 
+- **[PR Watch — proactive pull request review monitoring](https://github.com/KarlDoyle/pr-watch)**  
+  Helps the current on-call engineer spot a team’s accumulating review queue before requests are overlooked. It tracks business-hours waiting time and sends threshold-based Slack alerts, complementing historical PR latency reporting.
+
 - **[Councillor Tool — civic product](https://github.com/KarlDoyle/councillor-tool)**  
   A privacy-conscious JavaScript tool that helps Dublin residents find their local councillors and draft a message. Published on GitHub Pages, with no backend, accounts or tracking.
 
