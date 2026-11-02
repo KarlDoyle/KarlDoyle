@@ -27,6 +27,9 @@ Dublin-based · UK right to work · Open to roles across Europe and the UK, incl
 - **[Quarry — codebase retrieval and grounded analysis](https://github.com/KarlDoyle/quarry)**  
   A local-first TypeScript retrieval engine using SQLite, vector and full-text search, and local embeddings to ground code analysis in source evidence. The documentation describes evaluation limits and hosted-model options.
 
+- **[PR Latency Reporter — local GitHub review metrics](https://github.com/KarlDoyle/pr-latency-reporter)**  
+  A local-first Python CLI that turns pull request review activity into weekly and monthly Markdown reports, with SQLite storage and optional Slack delivery. Metrics are framed as process signals, not individual performance ratings.
+
 - **[Sprint Report Generator — transparent sprint reporting](https://github.com/KarlDoyle/sprint_report_generator)**  
   A reusable Jira sprint reporting tool that separates work planned at sprint start from work added mid-sprint. It abstracts a recurring problem I encountered across teams and companies, with a local CLI and synthetic examples. A Forge panel scaffold is included but not deployed.
 
