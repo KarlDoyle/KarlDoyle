@@ -51,11 +51,9 @@ Indexes code locally and combines semantic and keyword search. Retrieved source 
 
 ### [Marshal — code-grounded ticket routing](https://github.com/KarlDoyle/marshal-public)
 
-Marshal takes a thin engineering ticket, searches indexed repositories, identifies likely ownership from retrieved code evidence and CODEOWNERS, and can rewrite the report into a structured implementation brief. It exposes confidence rather than manufacturing certainty, with weak or competing evidence reducing the route’s confidence.
+Marshal is an experimental local-first CLI for engineers triaging thin tickets. It uses Quarry’s code retrieval and CODEOWNERS to suggest likely ownership, with heuristic confidence and runner-up scores. An optional local LLM produces a reviewable draft implementation brief, with unsupported file suggestions flagged. Generated acceptance criteria can describe existing behaviour, so the draft still needs source review.
 
-**Demonstrates:** retrieval-powered workflow design, ownership routing, uncertainty handling and local-first AI integration.
-
-[Read the project README](https://github.com/KarlDoyle/marshal-public#readme)
+[Read the project README](https://github.com/KarlDoyle/marshal-public#readme) · [Validation notes](https://github.com/KarlDoyle/marshal-public/blob/main/docs/VALIDATION.md)
 
 ### [AI Starter — engineering-ready AI templates](https://github.com/KarlDoyle/ai-starter-public)
 
