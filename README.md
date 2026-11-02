@@ -27,6 +27,9 @@ Dublin-based · UK right to work · Open to roles across Europe and the UK, incl
 - **[Quarry — codebase retrieval and grounded analysis](https://github.com/KarlDoyle/quarry)**  
   A local-first TypeScript retrieval engine using SQLite, vector and full-text search, and local embeddings to ground code analysis in source evidence. The documentation describes evaluation limits and hosted-model options.
 
+- **[Sprint Report Generator — transparent sprint reporting](https://github.com/KarlDoyle/sprint_report_generator)**  
+  A reusable Jira sprint reporting tool that separates work planned at sprint start from work added mid-sprint. It abstracts a recurring problem I encountered across teams and companies, with a local CLI and synthetic examples. A Forge panel scaffold is included but not deployed.
+
 - **[PR Watch — proactive pull request review monitoring](https://github.com/KarlDoyle/pr-watch)**  
   Helps the current on-call engineer spot a team’s accumulating review queue before requests are overlooked. It tracks business-hours waiting time and sends threshold-based Slack alerts, complementing historical PR latency reporting.
 
