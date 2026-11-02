@@ -96,15 +96,6 @@ I build AI systems that are useful because they are grounded, testable and appro
 - Engineering-health signals that improve team outcomes without becoming surveillance.
 - Developer experience, delivery reliability and practical observability.
 
-## Selected impact
-
-| Area | Generalised outcome |
-|---|---|
-| Team growth | Grew multiple engineering teams from small founding groups to substantially larger organisations; hired and onboarded nine engineers in one half-year and developed an engineer into an Engineering Manager. |
-| Customer performance | Led work on a high-traffic customer journey, reducing p95 latency by approximately 75% and monthly server errors by roughly 90%. |
-| Process improvement | Reduced engineering effort in a cross-functional finance process by 57% and shortened the end-to-end process by two days. |
-| Revenue assurance | Expanded automated testing to 25 business cases covering almost half of monthly revenue, unlocking 80+ additional testing hours per month. |
-
 ## Let’s connect
 
 I am open to senior engineering, engineering management and leadership roles, as well as consulting or collaboration on developer tools, engineering effectiveness and applied AI.
