@@ -13,11 +13,10 @@ Over 14+ years in technology, including six years in engineering management, I h
 
 I am most useful where engineering needs to connect clearly to customers, commercial outcomes and sustainable delivery.
 
-- **Built and developed engineering teams:** grew multiple engineering teams from small founding groups to substantially larger, sustainable organisations; hired and onboarded nine engineers in a single half-year and developed an engineer into an Engineering Manager.
-- **Improved customer-facing performance:** led work on a high-traffic customer journey that reduced p95 latency by approximately 75% and reduced monthly server errors by roughly 90%.
-- **Simplified a complex cross-functional process:** set the goal and baseline for a multi-team, multi-time-zone finance process; engineering effort fell by 57% and the end-to-end process shortened by two days.
-- **Increased confidence in revenue-critical systems:** expanded automated testing to cover 25 business cases representing almost half of monthly revenue, unlocking more than 80 additional testing hours each month.
-- **Build practical AI-enabled engineering tools:** local-first retrieval, grounded code analysis, delivery-health reporting and developer workflow automation.
+- **Built and developed engineering teams:** grew multiple teams from small founding groups into larger, sustainable organisations; hired and onboarded nine engineers in one half-year and developed an engineer into an Engineering Manager.
+- **Improved customer-facing performance:** led work on a high-traffic customer journey, reducing p95 latency by roughly 75% and monthly server errors by roughly 90%.
+- **Simplified a complex cross-functional process:** reduced engineering effort by 57% and shortened the end-to-end finance process by two days.
+- **Increased confidence in revenue-critical systems:** expanded automated testing to 25 business cases covering almost half of monthly revenue, unlocking 80+ testing hours each month.
 
 ## How I work
 
